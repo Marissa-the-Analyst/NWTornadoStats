@@ -8,9 +8,9 @@ Tornados and heavy thunderstorms racking the windows of my home brought to mind 
 ### Scope of Work ###
 **Deliverables**
 - A dashboard detailing 3 key metrics
---   Tornado Number
---   Injuries
---  Deaths
+      - Tornado Number
+      - Injuries
+      - Deaths
 - A dashboard visualizing the data on a geographic map
 
 ### Data Source ###
