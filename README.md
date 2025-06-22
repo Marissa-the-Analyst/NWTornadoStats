@@ -2,7 +2,7 @@
 Tornados and heavy thunderstorms racking the windows of my home brought to mind how the region's peak tornado season—March through May— is coming to a close. I sought out details on tornados for my region and found some interesting data to practice using maps in Tableau.
 
 ### Finished Dashboard ###
-To view the dashboard on Tableau Public [click here[(https://public.tableau.com/app/profile/marissa.nash/viz/1950-2024TornadoStatsforNorthwestGeorgia/Dashboard1)
+To view the dashboard on Tableau Public [click here](https://public.tableau.com/app/profile/marissa.nash/viz/1950-2024TornadoStatsforNorthwestGeorgia/Dashboard1)
 
 ### Programs Used ###
 - Excel
